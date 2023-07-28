@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Navbar   from './Components/Navbar.mjs';
+// import About from './Components/About.mjs';
 import TextForm from './Components/TextForm.mjs';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
 
     <div className='container my-3'>
     <TextForm heading="Enter the text to analyze"/> 
+    {/* <About/> */}
     </div>
      
     </>
