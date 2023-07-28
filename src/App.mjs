@@ -1,8 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './Components/Navbar.mjs';
+import Navbar   from './Components/Navbar.mjs';
 import TextForm from './Components/TextForm.mjs';
-
 
 function App() {
   return (
